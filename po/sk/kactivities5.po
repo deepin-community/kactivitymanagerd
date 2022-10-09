@@ -1,0 +1,48 @@
+# translation of kactivities5.po to Slovak
+# Roman Paholík <wizzardsk@gmail.com>, 2014, 2015.
+# Mthw <jari_45@hotmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: kactivities5\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-10 00:17+0000\n"
+"PO-Revision-Date: 2018-09-14 10:23+0100\n"
+"Last-Translator: Mthw <jari_45@hotmail.com>\n"
+"Language-Team: Slovak <kde-i18n-doc@kde.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: service/Activities.cpp:111
+#, kde-format
+msgid "Default"
+msgstr "Predvolené"
+
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:31
+#, kde-format
+msgid "Activity Manager"
+msgstr "Správca aktivít"
+
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:72
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:108
+#, kde-format
+msgctxt "@action"
+msgid "Switch to activity \"%1\""
+msgstr "Prepnúť na aktivitu \"%1\""
+
+#: service/plugins/krunner/ActivityRunner.cpp:19
+#, fuzzy, kde-format
+#| msgid "Activity"
+msgctxt "KRunner keyword"
+msgid "activity"
+msgstr "Aktivita"
+
+#: service/plugins/krunner/ActivityRunner.cpp:68
+#, fuzzy, kde-format
+#| msgctxt "@action"
+#| msgid "Switch to activity \"%1\""
+msgid "Switch to \"%1\""
+msgstr "Prepnúť na aktivitu \"%1\""

@@ -1,0 +1,51 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-10 00:17+0000\n"
+"PO-Revision-Date: 2015-09-08 14:31+0000\n"
+"Last-Translator: Necdet <necdetyucel@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: service/Activities.cpp:111
+#, kde-format
+msgid "Default"
+msgstr "Öntanımlı"
+
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:31
+#, fuzzy, kde-format
+#| msgid "Activity name"
+msgid "Activity Manager"
+msgstr "Etkinlik adı"
+
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:72
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:108
+#, kde-format
+msgctxt "@action"
+msgid "Switch to activity \"%1\""
+msgstr "\"%1\" etkinliğine geç"
+
+#: service/plugins/krunner/ActivityRunner.cpp:19
+#, fuzzy, kde-format
+#| msgid "Activity"
+msgctxt "KRunner keyword"
+msgid "activity"
+msgstr "Etkinlik"
+
+#: service/plugins/krunner/ActivityRunner.cpp:68
+#, fuzzy, kde-format
+#| msgctxt "@action"
+#| msgid "Switch to activity \"%1\""
+msgid "Switch to \"%1\""
+msgstr "\"%1\" etkinliğine geç"
